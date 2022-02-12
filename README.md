@@ -1,2 +1,12 @@
 # repository-first-learning
-SF homework
+
+# My data science projects
+
+## Проекты
+
+* [Проект 0. Игра угадай число]
+*    SF homework
+*     Проверка 333
+jhjhjjhjhjhj
+mfjhvhhv
+
