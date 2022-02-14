@@ -1,6 +1,5 @@
 # My data science projects
-Fhom the Skillfactory Data Science Course
-
+В данном репозитории находятся материалы по курсу моего обучения Data Science в компании SkillFactory
 ## Проекты
 
 * [Проект 0. Игра угадай число]
