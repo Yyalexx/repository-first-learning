@@ -6,7 +6,5 @@
 
 * [Проект 0. Игра угадай число]
 *    SF homework
-*     Проверка 333
-jhjhjjhjhjhj
-mfjhvhhv
+*
 
