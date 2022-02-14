@@ -1,5 +1,5 @@
 # My data science projects
-В данном репозитории находятся материалы по курсу моего обучения [1. Описание проекта](.README.md#Описание-проекта) в компании [1. Описание проекта](.README.md#Описание-проекта)
+В данном репозитории находятся материалы по курсу моего обучения [Data Science](https://skillfactory.ru/data-science-specialization) в компании [Skillfactory](https://skillfactory.ru/)
 ## Проекты
 
 * [Проект 0. Игра угадай число]
